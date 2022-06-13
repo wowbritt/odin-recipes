@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Charis+SIL:wght@400;700&display=swap');
+
+/* universal */
+
+body {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 14px;
+}
+
+h1 h2 h3 h4 h5 h6 {
+    font-family: 'Charis SIL', serif;
+}
+
+.title {
+    font-size: 25px;
+}
+
+img {
+    max-width: 250px;
+}
+
+/* index.html */
+
+.nav {
+
+}
+
+/* recipe pages */
+
+#header {
+    x
+}
+
+.desc {
+    x
+}
+
+#ingredients {
+    x
+}
+
+#directions {
+    x
+}
+
+#footer {
+    x    
+}
