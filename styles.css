@@ -1,19 +1,26 @@
 
-@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Charis+SIL:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,400;1,700&family=Yeseva+One&display=swap');
+
 
 /* universal */
 
 body {
-    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
 }
 
 h1 h2 h3 h4 h5 h6 {
-    font-family: 'Charis SIL', serif;
+    font-family: 'Yeseva One', cursive;
+}
+
+p desc {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
 }
 
 .title {
-    font-size: 25px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 45px;
 }
 
 img {
@@ -29,19 +36,33 @@ img {
 /* recipe pages */
 
 #header {
-    x
+    margin: 10px;
+    padding: 10px;
+}
+
+#header img {
+    padding: 15px;
 }
 
 .desc {
-    x
+    width: 400px;
+    padding: 15px;
 }
 
 #ingredients {
     x
 }
 
+#ingredients h3 {
+    font-family: 'Yeseva One', cursive;
+}
+
 #directions {
     x
+}
+
+#directions h3 {
+    font-family: 'Yeseva One', cursive;
 }
 
 #footer {
